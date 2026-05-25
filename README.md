@@ -33,7 +33,7 @@ datasets/
 │       ├── LM/
 │       └── EM/
 ```
-You can also download the dataset in  https://pan.baidu.com/s/1tLWu2t9fWmoJobyz9eLwyg?pwd=fswk 提取码: fswk
+You can also download the dataset in https://doi.org/10.5281/zenodo.20356059 or https://pan.baidu.com/s/1tLWu2t9fWmoJobyz9eLwyg?pwd=fswk 提取码: fswk
 
 #### Training
 
@@ -67,5 +67,5 @@ python inference.py --emsb_ckpt checkpoints/best_model.ckpt \
                     --nfe 20 \
 ```
 
-or you can download the .pt in ./ckpts at https://pan.baidu.com/s/1G_rt73NtB0eWnrV6WTejsA?pwd=eqjg 提取码: eqjg 
+or you can download the .pt in ./ckpts at https://doi.org/10.5281/zenodo.20356396 or https://pan.baidu.com/s/1G_rt73NtB0eWnrV6WTejsA?pwd=eqjg 提取码: eqjg 
 
